@@ -5,11 +5,11 @@
 
 - 📫 How to reach me **botelho.alissonalexandre@gmail.com**
 
-- 😄 Pronouns: He/Him
+- 😄 Pronomes: Ele/Dele
 
-- Meu currículo! 📄 [https://raw.githubusercontent.com/AlissonAlexandre/resume/main/Curriculo.pdf](https://raw.githubusercontent.com/AlissonAlexandre/resume/main/Curriculo.pdf)
+- [Meu currículo! 📄](https://raw.githubusercontent.com/AlissonAlexandre/resume/main/Curriculo.pdf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alissonalexandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alissonalexandre" height="30" width="40" /></a>
 </p>
