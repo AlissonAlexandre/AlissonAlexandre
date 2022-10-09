@@ -1,9 +1,9 @@
 <h1 align="center">Oi!👋 Eu sou o Alisson</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 Estou aprendendo: **Java, Kotlin**
 
-- 📫 How to reach me **botelho.alissonalexandre@gmail.com**
+- 📫 Como me contatar: **botelho.alissonalexandre@gmail.com**
 
 - 😄 Pronomes: Ele/Dele
 
