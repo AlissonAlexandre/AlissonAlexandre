@@ -1,6 +1,6 @@
 <h1 align="center">Oi!👋 Eu sou o Alisson</h1>
 
-- 🌱 Estou aprendendo: **Java, Kotlin**
+- 🌱 Estou aprendendo: **Design Patterns, Java, Kotlin**
 
 - 📫 Como me contatar: **botelho.alissonalexandre@gmail.com**
 
@@ -56,4 +56,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonalexandre&show_icons=true&locale=en&layout=compact" alt="alissonalexandre" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alissonalexandre&show_icons=true&locale=en" alt="alissonalexandre" /></p>
