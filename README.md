@@ -8,7 +8,9 @@
 
 - [Meu currículo! 📄](https://raw.githubusercontent.com/AlissonAlexandre/resume/main/Curriculo.pdf)
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonalexandre&show_icons=true&locale=en&layout=compact" alt="alissonalexandre" /></p>
+
 
 <h3 align="left">Conecte-se comigo!</h3>
 <p align="left">
