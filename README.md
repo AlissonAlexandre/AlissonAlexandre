@@ -31,10 +31,11 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93171892/194776928-e1b90f58-45e7-46a0-977b-0ab952245909.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/93171892/194776987-590df713-8713-4782-bf49-ed5cdc02bb5f.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 </p>
+
 
 <h3 align="left">Bancos de dados:</h3>
 <p align="left"> 
