@@ -1,5 +1,4 @@
 <h1 align="center">Oi!👋 Eu sou o Alisson</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 Estou aprendendo: **Java, Kotlin**
 
