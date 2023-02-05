@@ -1,6 +1,6 @@
 <h1 align="center">Oi!👋 Eu sou o Alisson</h1>
 
-- 🌱 Estou aprendendo: **Design Patterns, Java, Kotlin**
+- 🌱 Estou aprendendo: **Design Patterns, Kotlin**
 
 - 📫 Como me contatar: **botelho.alissonalexandre@gmail.com**
 
