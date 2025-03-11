@@ -20,7 +20,8 @@
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=express,flask,fastapi,spark" />
+  <img src="https://skillicons.dev/icons?i=express,flask,fastapi" />
+     <img src="https://skills-icons.vercel.app/api/icons?i=spark" />
 </p>
 
 <h3 align="left">Bancos de dados:</h3>
