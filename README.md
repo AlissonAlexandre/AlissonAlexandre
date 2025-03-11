@@ -38,7 +38,7 @@
 <h3 align="left">Outros:</h3>
 <p align="left"> 
  <img src="https://skillicons.dev/icons?i=aws,docker,heroku,grafana,kafka,selenium,terraform" />
- <img src="https://skills-icons.vercel.app/api/icons?i=digitalocean,playwright,swagger,datadog,insomnia />
+ <img src="https://skills-icons.vercel.app/api/icons?i=digitalocean,playwright,swagger,datadog,insomnia" />
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonalexandre&show_icons=true&locale=en&layout=compact" alt="alissonalexandre" /></p>
