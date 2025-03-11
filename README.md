@@ -21,14 +21,14 @@
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=express,flask,fastapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>
 </p>
 
 <h3 align="left">Bancos de dados:</h3>
 <p align="left"> 
    <img src="https://skillicons.dev/icons?i=mysql,dynamodb,cassandra,mongodb,firebase,postgres" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40"/>           
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>           
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>
 </p>
 
 <h3 align="left">Ferramentas:</h3>
@@ -44,9 +44,9 @@
 <h3 align="left">Outros:</h3>
 <p align="left"> 
  <img src="https://skillicons.dev/icons?i=aws,docker,heroku,grafana,kafka,selenium,terraform" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="40" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-plain.svg" width="40" height="40" style="filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alissonalexandre&show_icons=true&locale=en&layout=compact" alt="alissonalexandre" /></p>
